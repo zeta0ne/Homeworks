@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\Homeworks\HWs\bin\Debug\netcoreapp3.1\HWs.deps.json
+C:\Users\dell\source\repos\Homeworks\HWs\bin\Debug\netcoreapp3.1\HWs.dll
+C:\Users\dell\source\repos\Homeworks\HWs\bin\Debug\netcoreapp3.1\HWs.pdb
+C:\Users\dell\source\repos\Homeworks\HWs\obj\Debug\netcoreapp3.1\HWs.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Homeworks\HWs\obj\Debug\netcoreapp3.1\HWs.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Homeworks\HWs\obj\Debug\netcoreapp3.1\HWs.AssemblyInfo.cs
+C:\Users\dell\source\repos\Homeworks\HWs\obj\Debug\netcoreapp3.1\HWs.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Homeworks\HWs\obj\Debug\netcoreapp3.1\HWs.dll
+C:\Users\dell\source\repos\Homeworks\HWs\obj\Debug\netcoreapp3.1\HWs.pdb
