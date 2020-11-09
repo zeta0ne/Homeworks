@@ -8,7 +8,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine(Arrays1D.AddAllElementsWithOddIndex(new int[7] { 9, 20, 1, 8, 3, 12, 7 }));
-            int c = 0;
             //Console.WriteLine(Loops.FindAmountOfNumbersWithBiggerSumOfEvenDigits(236));
             //Console.WriteLine(Loops.FindAmountOfNumbersWithBiggerSumOfEvenDigits(49));
 
