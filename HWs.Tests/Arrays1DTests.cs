@@ -5,6 +5,8 @@ namespace HWs.Tests
 {
     class Arrays1DTests
     {
+        int c = 0;
+       
         [TestCase(new int[3] { 5, 0, 10 }, 0)]
         [TestCase(new int[4] { 9, 20, 1, 8 }, 1)]
         [TestCase(new int[4] { -5, -7, 100, 2 }, -7)]
